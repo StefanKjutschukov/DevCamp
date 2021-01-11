@@ -1,0 +1,10 @@
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\valer\Desktop\DevCamp\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
